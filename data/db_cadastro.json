@@ -1,0 +1,14 @@
+{
+  "cadastro": [
+    {
+      "funcionario": "1",
+      "login": "admin",
+      "senha": "12345678",
+      "confirmacaoSenha": "12345678",
+      "email": "admin@test.com",
+      "unidade": "Rio de Janeiro",
+      "tipoSelecionado": "TI",
+      "id": 1
+    }
+  ]
+}
